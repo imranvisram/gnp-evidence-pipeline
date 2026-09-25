@@ -1,0 +1,977 @@
+[
+  {
+    "theme": "decision_rights",
+    "quote": "We just don't deliver well. The hierarchy causes leadership to struggle with how to get approvals",
+    "direct_speech": false,
+    "note": "hierarchy blocks approvals, no clear ownership",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 74
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Our current structure relies too much on 'one person at the top having the answer'",
+    "direct_speech": true,
+    "note": "single point of decision escalation",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1133
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Sometimes that person at the top is overriding what the community wants \u2014 want to get rid of this pyramid",
+    "direct_speech": false,
+    "note": "top-down override of community input",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1219
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Grantees want to see more of us, we are very slow, not responsive and are taking way too long \u2014 they want our intellect as well as our resources, to sit down and have a strategy conversation with them",
+    "direct_speech": false,
+    "note": "grantees see org as slow, unresponsive",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 910
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Could lose the connection to our grantees \u2014 become out of touch",
+    "direct_speech": false,
+    "note": "risk of losing grantee connection",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 3329
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "The Community team won't speak to the Early Childhood Education Team",
+    "direct_speech": true,
+    "note": "teams not communicating across boundaries",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1682
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Because they're stuck within that unit, they're making up their own work",
+    "direct_speech": false,
+    "note": "units working in isolation, own agendas",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1987
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "We have a lot of that happening \u2014 a lot of structural barriers dependent on your title and who your boss is",
+    "direct_speech": false,
+    "note": "structural barriers tied to hierarchy",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1754
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "As an organization we are very resistant to change \u2014 no one wants to change what they do or how they do it. Inertia is a dominating force and it takes a lot for us to break out of old ways of working",
+    "direct_speech": true,
+    "note": "explicit resistance to change described",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2392
+    }
+  },
+  {
+    "theme": "capability_gaps",
+    "quote": "We need people who are generalists who can work across communities \u2014 people who can work with and energize people",
+    "direct_speech": false,
+    "note": "need for generalist capability",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2820
+    }
+  },
+  {
+    "theme": "capability_gaps",
+    "quote": "Our leaders have evolved from program officers, but they can't lead people",
+    "direct_speech": false,
+    "note": "leadership/people-management skill gap",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 3021
+    }
+  },
+  {
+    "theme": "prior_change",
+    "quote": "All of our leaders have a coach, moving away from 'command and control'",
+    "direct_speech": false,
+    "note": "coaching investment as change mechanism",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1338
+    }
+  },
+  {
+    "theme": "prior_change",
+    "quote": "Started with Governance, moved onto Leadership and needed to tackle structure as part of that",
+    "direct_speech": false,
+    "note": "sequenced change approach that worked",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1462
+    }
+  },
+  {
+    "theme": "strengths",
+    "quote": "Diversity in our people \u2014 we have embraced core values for both our Board and staff",
+    "direct_speech": false,
+    "note": "values and diversity as strength",
+    "source_file": "interview_1_President_and_CEO.txt",
+    "speaker": "President & CEO",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 3184
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "CEO often has to sign off on something that has already been approved (e.g. vendor contracts or vacation approvals shouldn't go up to the CEO)",
+    "direct_speech": false,
+    "note": "Escalation of routine approvals to CEO",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2727
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Very time consuming \u2014 and even with this we sometimes fail to make and communicate decisions",
+    "direct_speech": false,
+    "note": "Decisions stall despite effort",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2980
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Old paradigm: who has lead accountability for Community team? Regional lead, education expert, specialist in community engagement?",
+    "direct_speech": false,
+    "note": "No stated ownership of decisions",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2069
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "How do we show up to our grantees to drive systemic change?",
+    "direct_speech": true,
+    "note": "Question about fragmented grantee experience",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 994
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Health would show up in New Mexico and Education would show up in NM. So there wasn't a unified GNP foundation to the community there, there were multiple GNP Foundations",
+    "direct_speech": true,
+    "note": "Fragmented face to community",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 819
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Community teams used to hire consultants rather than asking their colleagues",
+    "direct_speech": false,
+    "note": "Protected knowledge, siloed teams",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2243
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "the contracting person gets blindsided because they weren't at the table and coordinated at the outset",
+    "direct_speech": false,
+    "note": "Late involvement causing handoff issues",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2503
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "Thirds \u2014 a third are committed to the need for change, a third are willing and open, a third will be resistors \u2014 needing a lot of work (some know what the change implies and won't like it)",
+    "direct_speech": false,
+    "note": "Segments of readiness and resistance",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1067
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "For resistors, this may revoke the social contract that they were brought here to do",
+    "direct_speech": false,
+    "note": "Resistance framed as broken contract",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1258
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "This will be a huge change for frontline staff \u2014 it's a bigger deal than we realize",
+    "direct_speech": false,
+    "note": "Underestimated scale of change impact",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1440
+    }
+  },
+  {
+    "theme": "capability_gaps",
+    "quote": "Some will just lack the capacity and skills to function as part of a multi-disciplinary team",
+    "direct_speech": false,
+    "note": "Skill gaps for cross-functional work",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1345
+    }
+  },
+  {
+    "theme": "capability_gaps",
+    "quote": "people didn't know how to make workplans when I arrived",
+    "direct_speech": false,
+    "note": "Workplanning capability gap",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2660
+    }
+  },
+  {
+    "theme": "prior_change",
+    "quote": "previous CEO mobilized people around levers of change, but didn't carry that through to the structure",
+    "direct_speech": false,
+    "note": "Past change effort, mechanism incomplete",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 580
+    }
+  },
+  {
+    "theme": "communication",
+    "quote": "BUT until we know what shifting roles and duties looks like, people won't be aligned",
+    "direct_speech": false,
+    "note": "No plan communicated, alignment lacking",
+    "source_file": "interview_2_Chief_Operating_Officer.txt",
+    "speaker": "Chief Operating Officer",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1604
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Decision Making (at the EC level)",
+    "direct_speech": false,
+    "note": "Escalation of decisions to executive committee",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 268
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Peer Mentoring Program \u2014 couldn't get off the ground because too many cooks in the kitchen",
+    "direct_speech": false,
+    "note": "Too many stakeholders stall decision",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 304
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Making decisions without evidence",
+    "direct_speech": false,
+    "note": "Poor decision-making practice noted",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 823
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Wanting the Foundation to show a united face",
+    "direct_speech": false,
+    "note": "Grantees want fragmented org unified",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 898
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "How does the Foundation show up in these communities?",
+    "direct_speech": true,
+    "note": "Direct grantee question on presence",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 946
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Grantees are increasingly asking for more strategy support, better understanding and community engagement",
+    "direct_speech": false,
+    "note": "Grantee demands increasing, unmet needs",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1104
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Challenge of protecting silos \u2014 people knowledge is used as power; can make progress slow and difficult. Department = home; we need to change this",
+    "direct_speech": false,
+    "note": "Knowledge hoarded, silo protection slows progress",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1300
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "A lot of people are relics and they are resistant to change \u2014 even the executives",
+    "direct_speech": false,
+    "note": "Resistance to change across levels",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2182
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "People are scarred by the 'lean down' back in 2009-10",
+    "direct_speech": false,
+    "note": "Past layoffs left lasting scars",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2266
+    }
+  },
+  {
+    "theme": "communication",
+    "quote": "People had a reorganized org for a year without announcing it or what the new roles are for contact points",
+    "direct_speech": false,
+    "note": "Unannounced reorg confuses contact points",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 478
+    }
+  },
+  {
+    "theme": "communication",
+    "quote": "When someone is let go, the announcement is made but no supporting plan is provided",
+    "direct_speech": false,
+    "note": "Announcements lack supporting communication plan",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 587
+    }
+  },
+  {
+    "theme": "communication",
+    "quote": "It's the change communication that really impairs effectiveness",
+    "direct_speech": false,
+    "note": "Change communication cited as core issue",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2322
+    }
+  },
+  {
+    "theme": "capability_gaps",
+    "quote": "Coaching \u2014 give and receive feedback",
+    "direct_speech": false,
+    "note": "Coaching/feedback skill gap identified",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1494
+    }
+  },
+  {
+    "theme": "strengths",
+    "quote": "Smart people",
+    "direct_speech": false,
+    "note": "People identified as core strength",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1709
+    }
+  },
+  {
+    "theme": "strengths",
+    "quote": "Mission driven",
+    "direct_speech": false,
+    "note": "Mission orientation seen as strength",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1724
+    }
+  },
+  {
+    "theme": "prior_change",
+    "quote": "the collaborative approach to the strategy papers demonstrated what can happen when people work across teams",
+    "direct_speech": true,
+    "note": "Cross-team collaboration success mechanism cited",
+    "source_file": "interview_3_Head_of_Learning.txt",
+    "speaker": "Head of Learning",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1931
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "We need to set out better criteria for what types of decisions need to get escalated to the CEO",
+    "direct_speech": false,
+    "note": "No clear escalation criteria for decisions",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1483
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Decisional responsibility is not stated",
+    "direct_speech": false,
+    "note": "No stated ownership of decisions",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1695
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "True accountability is a discipline leadership needs to build with each other and throughout the organization",
+    "direct_speech": false,
+    "note": "Accountability gap in decision-making culture",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1737
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Processes are too convoluted",
+    "direct_speech": false,
+    "note": "Grantee complaint about convoluted processes",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 313
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Granting process takes too long",
+    "direct_speech": false,
+    "note": "Slow grants cited directly",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 394
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Foundation isn't proactive or responsive",
+    "direct_speech": false,
+    "note": "Grantee experience of unresponsiveness",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 428
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "We want grantees to see us as easy to work with, transparent, a partnering org, agile, etc.",
+    "direct_speech": false,
+    "note": "Desired grantee experience contrasted with reality",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 652
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Grant Services \u2014 comes in too late with questions; due diligence around whether the budget matches the org plan, analysis of financial structure, meeting IRS requirements",
+    "direct_speech": false,
+    "note": "Late involvement of Grant Services in process",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1066
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "There are cliques \u2014 some by tenure, some by programs. 90% of our program officers have been here 5 years or less",
+    "direct_speech": false,
+    "note": "Cliques show siloed team culture",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1239
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "Perceived notion that this might be CEO's flavor of the year",
+    "direct_speech": false,
+    "note": "Scepticism about change permanence",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2308
+    }
+  },
+  {
+    "theme": "change_readiness",
+    "quote": "People who are getting by doing little work, people who aren't aligned and can hide in the shadows",
+    "direct_speech": false,
+    "note": "Resistors hiding from change",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2207
+    }
+  },
+  {
+    "theme": "communication",
+    "quote": "How we communicate this \u2014 this is so crucial",
+    "direct_speech": false,
+    "note": "Highlights need for communication plan",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2449
+    }
+  },
+  {
+    "theme": "capability_gaps",
+    "quote": "Make sure the staff have the tools = social collaboration tools",
+    "direct_speech": false,
+    "note": "Tooling/skill gap for collaboration",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2496
+    }
+  },
+  {
+    "theme": "strengths",
+    "quote": "Passionate people \u2014 that passion becomes a part of our culture and how we get work done",
+    "direct_speech": false,
+    "note": "People passion as strength to preserve",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1875
+    }
+  },
+  {
+    "theme": "strengths",
+    "quote": "Supporting our community engagement model",
+    "direct_speech": false,
+    "note": "Community engagement model valued strength",
+    "source_file": "interview_4_Head_of_Org_Effectiveness.txt",
+    "speaker": "Head of Org Effectiveness",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2057
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Painful slow decision-making process",
+    "direct_speech": false,
+    "note": "Decisions stall internally",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 362
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "A lot of things go up to the CEO & Executive Council, they may postpone a decision to the next meeting two weeks away",
+    "direct_speech": false,
+    "note": "Escalation and delay to leadership",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 401
+    }
+  },
+  {
+    "theme": "decision_rights",
+    "quote": "Example: Pulse Questions \u2014 the number of times the questions were reviewed by Core Team and Exec Council in a very circular way",
+    "direct_speech": false,
+    "note": "Circular review with no clear owner",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2816
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Every two years we do a staff perception survey and a grantee perception survey \u2014 low grantee/customer satisfaction",
+    "direct_speech": false,
+    "note": "Low grantee satisfaction documented",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1157
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Grantees (who are our customers) want to see grants processed faster",
+    "direct_speech": false,
+    "note": "Grantees want faster processing",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1275
+    }
+  },
+  {
+    "theme": "grantee_experience",
+    "quote": "Messaging to staff and grantees is lacking",
+    "direct_speech": false,
+    "note": "Fragmented communication to grantees",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1565
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Each team has its own strategic planning process \u2014 silos off doing their own thing",
+    "direct_speech": false,
+    "note": "Teams siloed in planning",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 198
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Leaders are a lot more aware of what each other are doing, but still operate very much in silos",
+    "direct_speech": false,
+    "note": "Leadership still siloed",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1367
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Grant Management Department \u2014 whether it be lobbying, effectiveness, or tax implications, this group can hold up the grantmaking process, which frustrates the program officers",
+    "direct_speech": false,
+    "note": "One team blocks another's process",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2039
+    }
+  },
+  {
+    "theme": "silos_handoffs",
+    "quote": "Right now there's a lot of back and forth before we can make a decision, the Family Health Team would have to work with the Geography, would have to loop in their supervisors, grant management department, legal team for advice \u2014 lots of touchpoints across the organization",
+    "direct_speech": true,
+    "note": "Many handoffs across teams for one decision",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2349
+    }
+  },
+  {
+    "theme": "communication",
+    "quote": "Pretty soon 50 people start hearing about this project and in lieu of any clear communications, the rumor mill starts",
+    "direct_speech": true,
+    "note": "Rumor mill from lack of communication",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1611
+    }
+  },
+  {
+    "theme": "communication",
+    "quote": "Largest internal barrier is internal communications \u2014 that team has been restructured a few times",
+    "direct_speech": false,
+    "note": "Communication team instability",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 1465
+    }
+  },
+  {
+    "theme": "capability_gaps",
+    "quote": "We may hire someone who knows great food policy, but who isn't a great communicator or presenter",
+    "direct_speech": false,
+    "note": "Skill gap in communication",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2636
+    }
+  },
+  {
+    "theme": "prior_change",
+    "quote": "Agreed on timeframe and template, then teams were allowed to deploy their own plan",
+    "direct_speech": false,
+    "note": "Successful decentralized planning mechanism",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 699
+    }
+  },
+  {
+    "theme": "strengths",
+    "quote": "Surveys tell us \u2014 people love the diversity and knowledge and experiences of their colleagues, the top positive is always peers",
+    "direct_speech": false,
+    "note": "Peer relationships valued strength",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 2956
+    }
+  },
+  {
+    "theme": "strengths",
+    "quote": "Legacy is very important \u2014 incl. vision, mission and values",
+    "direct_speech": false,
+    "note": "Mission and values as strength",
+    "source_file": "interview_5_Project_Manager.txt",
+    "speaker": "Project Manager",
+    "verification": {
+      "status": "verified",
+      "reason": "exact match",
+      "offset": 3086
+    }
+  }
+]
